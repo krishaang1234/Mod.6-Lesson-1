@@ -5,7 +5,7 @@ import pygame
 pygame.init()
 
 # Setup window geometry
-screen = pygame.display.set_mode((400,500))
+screen = pygame.display.set_mode((450,550))
 
 # Create a loop to run till the game is quit by the user
 done = False
